@@ -8,7 +8,7 @@ During my research, I frequently came across a claim that a tablespoon of lemon 
 ## The Experiment Design
 I decided to design an experiment to formally test this "lemon juice theory."
 
-**Factors and Treatments:**
+### Factors and Treatments
 The experiment had two main factors:
 1. Lemon Juice: (Present vs. Absent)
 2. Rise Time: (45 minutes vs. 60 minutes). I included this second factor because if the lemon juice did increase yeast activity, it might affect the optimal proofing time.
@@ -16,12 +16,12 @@ The experiment had two main factors:
 
 These two factors led to four unique treatment combinations (45min/Lemon, 45min/No Lemon, 60min/Lemon, and 60min/No Lemon)
 
-**Blocking and Randomization:**
+### Blocking and Randomization
 To manage the baking process, I used a randomized block design. I conducted the experiment in three "batches," where each batch represented a single block. Within each batch, all four treatment combinations were prepared, risen, and baked at the same time (though in different mixers). This block structure helps account for any environmental variability between baking sessions.
 
 For each batch, the four treatments were randomly assigned to one of four mixer-baker pairs.
 
-**Procedure and Controls:**
+### Procedure and Controls
 To ensure consistency, a single loaf's worth of dough was prepared for each experimental unit. All ingredients were meticulously pre-measured, and the flour was weighed to guarantee each loaf received the exact same mass of flour and the temperature of the water was measured for each loaf to ensure that it was about 107 F. The only intended difference was the presence or absence of lemon juice.
 
 While all four mixers used were Bosch Universal Plus models, two were of an older design. I noted this difference but proceeded under the assumption that any variance due to the specific mixer model would be negligible compared to the treatment effects.
