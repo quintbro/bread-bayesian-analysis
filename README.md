@@ -12,6 +12,7 @@ I decided to design an experiment to formally test this "lemon juice theory."
 The experiment had two main factors:
 1. Lemon Juice: (Present vs. Absent)
 2. Rise Time: (45 minutes vs. 60 minutes). I included this second factor because if the lemon juice did increase yeast activity, it might affect the optimal proofing time.
+
 These two factors led to four unique treatment combinations (45min/Lemon, 45min/No Lemon, 60min/Lemon, and 60min/No Lemon)
 
 **Blocking and Randomization:**
