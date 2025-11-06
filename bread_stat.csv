@@ -1,0 +1,13 @@
+Batch,Time,Trt,Oven,Results (circumference),Baker
+1,60,L,T,38.5,Ritvik
+1,60,N,T,38.4,Leo
+1,45,N,B,40.3,Brian
+1,45,L,B,37.3,Riley
+2,60,L,B,40.3,Leo
+2,60,N,B,42.3,Brian
+2,45,N,T,38,Ritvik
+2,45,L,T,38.1,Riley
+3,60,L,T,42.1,Riley
+3,60,N,T,45.6,Leo
+3,45,N,B,42.7,Ritvik
+3,45,L,B,39.7,Brian
