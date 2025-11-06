@@ -28,7 +28,7 @@ While all four mixers used were Bosch Universal Plus models, two were of an olde
 
 ![Large Whole Wheat Bread Image](images/20251020_171630.jpg)
 
-**Response Variable:**
+### Response Variable
 Our chosen proxy for "fluffiness" was the final bread perimeter. We measured this by taking a flexible measuring tape and recording the perimeter (in centimeters) around the center of the baked loaf. To reduce variability in loaf shape, we also standardized the process by gently flattening the dough in the loaf pan immediately after shaping and before proofing.
 
 I recipe that I used for this experiment is found [here](https://anoregoncottage.com/whole-wheat-sandwich-bread-101/). The only modifications that I made were halving all of the ingredients to produce a single loaf (rather than two).
